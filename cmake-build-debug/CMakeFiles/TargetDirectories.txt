@@ -1,0 +1,4 @@
+G:/qt_clion/cmake-build-debug/CMakeFiles/qt_clion.dir
+G:/qt_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/qt_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/qt_clion/cmake-build-debug/CMakeFiles/qt_clion_autogen.dir
